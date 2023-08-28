@@ -1,4 +1,4 @@
-# A project made under CodeRelay organised by IIT Bhubaneswar
+#This Project aims to connect University students to sell and buy their used items. Sellers get a convenient platform to list their items, and Buyers get books and other articles at low prices, along with a chat feature to clear any queries they may have with the product
 **Have a look at [website](https://college-bazaar-coderelay.netlify.app/)**
 
 ### We have implemented an online market for college students to sell and buy their products
