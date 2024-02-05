@@ -1,14 +1,14 @@
 
 # College Bazaar
 
-This Project aims to connect University students to sell and buy their used items. Sellers get a convenient platform to list their items, and Buyers get books and other articles at low prices, along with a chat feature to clear any queries they may have with the product.
+This Project aims to connect University students to sell and buy their used items. Sellers get a convenient platform to list their items, and Buyers get books and other articles at low prices.
 
 
 
 ## Features and Tech Stack
 
 - #### ReactJs
-Used this framework to build the frontend of the website as a SPA Single Page Application to procide somooth user experience.
+Used this framework to build the frontend of the website as a SPA Single Page Application to provide smooth user experience.
 
 
 - #### Mongodb Atlas
